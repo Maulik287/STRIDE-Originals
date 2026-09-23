@@ -1,0 +1,6 @@
+{
+  "name": "STRIDE Originals | Sneaker & Footwear Store",
+  "description": "Premium sneaker store featuring real-time search & multifaceted filters, verified customer reviews with sizing fit meter, and a multi-step secure checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
